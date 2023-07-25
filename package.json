@@ -1,0 +1,28 @@
+{
+  "name": "js-rsa",
+  "version": "1.0.0",
+  "description": "A javascript ras crypt and enctrypt implementation for binary buffers",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiochan/js-rsa.git"
+  },
+  "keywords": [
+    "rsa",
+    "crypto",
+    "buffer",
+    "arraybuffer"
+  ],
+  "author": "Kiochan <kio@kiochan.one>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiochan/js-rsa/issues"
+  },
+  "homepage": "https://github.com/kiochan/js-rsa#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
